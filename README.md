@@ -2,5 +2,5 @@
 
 Running instructions : Clone or download the repository. Compile by running the make command in your terminal:
 
-make
+make<br>
 ./cpu_scheduling_visualizer
